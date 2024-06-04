@@ -1,0 +1,26 @@
+{
+  "goals": [
+    {
+      "Name": "Run a marathon",
+      "Points": 1000,
+      "IsCompleted": false
+    },
+    {
+      "Name": "Read scriptures",
+      "Points": 100,
+      "IsCompleted": false
+    },
+    {
+      "Name": "Attend temple",
+      "Points": 50,
+      "IsCompleted": false
+    }
+  ],
+  "totalScore": 200,
+  "level": 1,
+  "experiencePoints": 200,
+  "badges": {
+    "Read scriptures": 1,
+    "Attend temple": 2
+  }
+}
